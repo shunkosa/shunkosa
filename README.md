@@ -1,16 +1,12 @@
-### Hi there 👋
+### Aloha 👋
 
-<!--
-**shunkosa/shunkosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const shun = {
+  pronouns : 'he' | 'him',
+  code: ['Lightning Web Components', 'Node.js', 'ruby', 'TypeScript'],
+  ask_me_anything_about: 'Salesforce',
+  current_interest: ['i18n', 'low-code']
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HitCount](http://hits.dwyl.com/shunkosa/shunkosa.svg)](http://hits.dwyl.com/shunkosa/shunkosa)
